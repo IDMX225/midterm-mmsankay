@@ -1,11 +1,11 @@
 body {
-    font-family: crossorigin;
+    font-family:Roboto;
     background-color: #D61A29;
     color: #A5FB91;
 }
 
 h1, h2 h3, h4, h5,h6 {
-    font-family: "Big+Shoulder+Inner";
+    font-family:"Grenze Gotisch";
     text-align:center;
     font-size:44pt;
 }
@@ -36,7 +36,7 @@ h1 {
     max-width:100%;
 }
 #gallery figure {
-    
+
 }
 #review ul li:nth-child(even) {
     color:#BE34B9;
