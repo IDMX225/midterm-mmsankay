@@ -24,11 +24,20 @@ h1 {
 #hero img {
     width:400pt;
 }
+/* Gallery */
 
-#Project {
+#gallery {
+    border: 2px solid;
+    color: #629CF2;
     text-align:center;
 }
 
+#gallery img {
+    max-width:100%;
+}
+#gallery figure {
+    
+}
 #review ul li:nth-child(even) {
     color:#BE34B9;
 }
