@@ -6,9 +6,10 @@ body {
 
 h1, h2 h3, h4, h5,h6 {
     font-family: "Big+Shoulder+Inner";
+    text-align:center;
     font-size:44pt;
 }
-header {
+h1 {
     text-align:center;
 }
 
@@ -24,6 +25,10 @@ header {
     width:400pt;
 }
 
-#bio {
+#Project {
     text-align:center;
+}
+
+#review ul li:nth-child(even) {
+    color:#BE34B9;
 }
