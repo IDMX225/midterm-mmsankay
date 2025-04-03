@@ -9,11 +9,12 @@ h1, h2 h3, h4, h5,h6 {
     text-align:center;
     font-size:44pt;
 }
-h1 {
-    text-align:center;
+
+header {
+ text-align:center;
 }
 
-#hero {
+#Project {
     color: #B4627D;
     border: 2px solid#51594F;
     background-color: #F1E26C;
@@ -21,7 +22,7 @@ h1 {
     padding:10px;
 }
 
-#hero img {
+#Project img {
     width:400pt;
 }
 /* Gallery */
@@ -35,9 +36,11 @@ h1 {
 #gallery img {
     max-width:100%;
 }
-#gallery figure {
-
-}
+ 
 #review ul li:nth-child(even) {
     color:#BE34B9;
+    border: 3px solid#B4627D;
+    background-color: #F1E26C;
+    text-align:center;
+    padding: 10px;
 }
